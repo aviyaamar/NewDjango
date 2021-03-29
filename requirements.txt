@@ -48,7 +48,7 @@ pipenv==2018.11.26
 protobuf==3.6.1
 psycopg2==2.8.3
 pycodestyle==2.5.0
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.3.1
 python3-openid==3.1.0
 pytz==2018.7
